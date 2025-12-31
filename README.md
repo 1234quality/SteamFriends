@@ -12,3 +12,11 @@
 
 ### 使用方法：[issue1](https://github.com/systemannounce/SteamFriends/issues/1)
 
+
+
+## Steam好友列表
+| Avatar                                                                            | Name   | steamid                                                                     | is_friend   | BFD                 | removed_time   | Remark   |
+|:----------------------------------------------------------------------------------|:-------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------------|:---------|
+| ![](https://avatars.steamstatic.com/be88e4a9980b0e2457fb027a7b148cb005d2f7b9.jpg) | 5555X2 | [76561199155101675](https://steamcommunity.com/profiles/76561199155101675/) | ✅           | 2021-07-04 06:02:16 |                |          |
+| ![](https://avatars.steamstatic.com/fc5d8974fd3b0cd4519d382edd70e89172d6da5b.jpg) | 5555   | [76561198847643549](https://steamcommunity.com/profiles/76561198847643549/) | ✅           | 2025-07-20 14:48:02 |                |          |
+| ![](https://avatars.steamstatic.com/af59457c1c3a408c61657d51e26760447bd86662.jpg) | 散华礼    | [76561199872576190](https://steamcommunity.com/profiles/76561199872576190/) | ✅           | 2025-09-20 03:51:56 |                |          |
